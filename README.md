@@ -30,3 +30,4 @@ This project demonstrates frontend development concepts like **DOM manipulation,
 
 ## 📂 Project Structure
 
+![image alt](https://github.com/BhagyaSRathore/Spotify-clone-Frontend-Project/blob/87efc24e8bea74154c63fab2aadf4ca41d8efef9/screenshot.jpg)
